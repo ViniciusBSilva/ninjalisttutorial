@@ -1,3 +1,11 @@
+# Tutorial from 
+
+https://www.youtube.com/watch?v=A63UxsQsEbU&amp;list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&amp;index=1
+
+Complete source https://github.com/iamshaunjp/nextjs-tutorial
+
+***
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -35,9 +43,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 
 
-###
-Tutorial from 
-
-https://www.youtube.com/watch?v=A63UxsQsEbU&amp;list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&amp;index=1
-
-Complete source https://github.com/iamshaunjp/nextjs-tutorial
