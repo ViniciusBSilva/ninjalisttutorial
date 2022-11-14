@@ -38,11 +38,9 @@ const Ninjas = ({ ninjas }) => {
             <div>
                 <h1>All Ninjas</h1>
                 {ninjas.map(ninja => (
-                    <div key={ninja.id}>
-                        <Link href="" className={styles.single}>
-                            <h3>{ninja.name}</h3>
-                        </Link>
-                    </div>
+                    <Link href={'/ninjas/' + ninja.id} className={styles.single} key={ninja.id}>
+                        <h3>{ninja.name}</h3>
+                    </Link>
                 ))}
             </div>
         </>
